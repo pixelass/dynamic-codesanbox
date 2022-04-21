@@ -1,3 +1,4 @@
 {
-  "name": "button-click"
+  "name": "button-click",
+  "main": "button-click.html"
 }
