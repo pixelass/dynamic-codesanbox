@@ -1,6 +1,3 @@
-// this line is only needed for the interactive editor…
-const document = getShadowRoot();
-
 const button1 = document.querySelector(".button-1");
 // Something is not right in the next line:
 const button2 = document.querySelector("button-2");
